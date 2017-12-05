@@ -1,0 +1,5 @@
+input[type="checkbox"],
+input[type="radio"] {
+  outline: 1px solid #989870 !important;
+  box-shadow: 0px 0px 3px #b37700 !important;;
+}
